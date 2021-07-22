@@ -9,6 +9,9 @@
     padding-right: 4.5rem;
     padding-left: .5rem;
 }
+html{
+    scroll-behavior: smooth;
+}
 /* .col-lg-6 h1{
     font-size: 30px;
     
