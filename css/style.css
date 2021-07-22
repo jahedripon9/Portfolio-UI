@@ -1,0 +1,26 @@
+.navbar{
+    margin-left: 60%;
+}
+.navbar a{
+    font-weight: 700;
+    color: #111;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 4.5rem;
+    padding-left: .5rem;
+}
+/* .col-lg-6 h1{
+    font-size: 30px;
+    
+}
+.col-lg-6 .img{
+    margin-left: 10%;    
+} */
+
+/* .blog-item{
+    padding-left: 10%;
+}
+
+.blog h1{
+    padding-left: 14.5%;
+} */
